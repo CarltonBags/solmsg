@@ -53,4 +53,5 @@ const {
   };
   
   main();
+  setInterval(main, 60000);
   
